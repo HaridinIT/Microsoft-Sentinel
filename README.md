@@ -1,7 +1,7 @@
 <h1>Microsoft Sentinel</h1>
 
 <h2>Description</h2>
-In this project, an Azure SQL Database was deployed and secured with Microsoft Defender for SQL for threat protection and vulnerability assessment. Sensitive data was identified and classified to meet compliance standards, while auditing was configured to track database activities. This project demonstrated robust approach to protecting Azure SQL Databases through monitoring, compliance, and security tools. 
+This project focused on implementing and configuring Microsoft Sentinel, a cloud-native Security Information and Event Management (SIEM) and Security Orchestration, Automation, and Response (SOAR) platform. Using a lab environment, I connected Microsoft Sentinel to various data sources, including Azure Active Directory, Office 365, and custom log sources, to aggregate and analyze security events. I created custom analytic rules, incident alerts, and playbooks to detect and respond to threats in real time. Additionally, I configured workbooks and dashboards to provide comprehensive visualization of security metrics and system performance, enabling actionable insights for proactive threat management.
 <br />
 <p align="center">
 <img src="https://imgur.com/luAcaxB.png" height="85%" width="85%" alt="Microsoft Sentinel"/>
@@ -79,4 +79,4 @@ Invoke an Incident and review actions: <br/>
 
 
 <h2>Conclusion:</h2>
-The project provided a comprehensive approach to securing an Azure SQL Database by leveraging key security features such as Microsoft Defender for SQL, data classification, and auditing. The project demonstrated effective strategies for protecting sensitive data, ensuring regulatory compliance, and monitoring database activities. 
+This Microsoft Sentinel project demonstrates my ability to deploy and optimize a powerful SIEM/SOAR platform for advanced threat detection and response. By integrating diverse data sources, configuring automated playbooks, and developing custom dashboards, I reinforced my hands-on experience in enhancing an organization's security posture through real-time monitoring and automated incident response. This project reflects my expertise in leveraging Microsoft Sentinel to streamline security operations and enable robust, data-driven decision-making in dynamic environments.
